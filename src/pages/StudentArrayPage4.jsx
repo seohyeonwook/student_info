@@ -12,6 +12,8 @@ function StudentArrayPage4(props) {
     // 프롭스
     // useEffect
     // useRef
+    // 필터
+    // useSearchParams/ useParams 구분
 
     return (
         <div>
